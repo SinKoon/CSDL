@@ -9,5 +9,6 @@
  ---- | -----| 
 第六周 | CDA,DLB,MaskFormer,BAM  |
 第七周 |  AdvCAM,SAN&SAW,AMN,And other 2 methods mainly on domain adaptive semantic segmentation |
+第八周 | BAP&NAL,BBAMbottleneck,CAM,DiRA,NonSalientObjectMining,PPM|
 
 从第六周开始我会把学到的模型名字文章贴在这里，方便以后回顾。（前几周都没有写表格，太懒了不想补了:(）
